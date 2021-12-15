@@ -76,8 +76,8 @@ params:
   socialIcons:
     - name: twitter
       url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: mailbox
+      url: "mailto:davidlu8574@gmail.com"
     - name: github
       url: "https://github.com/"
 
