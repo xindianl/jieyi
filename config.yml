@@ -1,4 +1,4 @@
-baseURL: https://github.com/xindianl/jieyi
+# baseURL: https://github.com/xindianl/jieyi
 languageCode: en-us
 title: Jieyi
 theme: PaperMod
