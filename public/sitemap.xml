@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://github.com/xindianl/jieyi/</loc>
+    <lastmod>2021-12-15T22:42:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://github.com/xindianl/jieyi/posts/my-first-post/</loc>
+    <lastmod>2021-12-15T22:42:03+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://github.com/xindianl/jieyi/posts/</loc>
+    <lastmod>2021-12-15T22:42:03+08:00</lastmod>
+  </url><url>
+    <loc>https://github.com/xindianl/jieyi/categories/</loc>
+  </url><url>
+    <loc>https://github.com/xindianl/jieyi/tags/</loc>
   </url>
 </urlset>
