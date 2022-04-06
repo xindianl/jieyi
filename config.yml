@@ -42,16 +42,16 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/resources/900px-National_Emblem_of_the_Republic_of_China.png"
-    favicon16x16: "/resources/900px-National_Emblem_of_the_Republic_of_China.png"
-    favicon32x32: "/resources/900px-National_Emblem_of_the_Republic_of_China.png"
-    apple_touch_icon: "/resources/900px-National_Emblem_of_the_Republic_of_China.png"
-    safari_pinned_tab: "/resources/900px-National_Emblem_of_the_Republic_of_China.png"
+    favicon: "/900px-National_Emblem_of_the_Republic_of_China.png"
+    favicon16x16: "/900px-National_Emblem_of_the_Republic_of_China.png"
+    favicon32x32: "/900px-National_Emblem_of_the_Republic_of_China.png"
+    apple_touch_icon: "/900px-National_Emblem_of_the_Republic_of_China.png"
+    safari_pinned_tab: "/900px-National_Emblem_of_the_Republic_of_China.png"
 
   label:
     text: "Home"
-    #icon: /apple-touch-icon.png
-    #iconHeight: 35
+    icon: "/900px-National_Emblem_of_the_Republic_of_China.png"
+    iconHeight: 35
 
   # profile-mode
   profileMode:
