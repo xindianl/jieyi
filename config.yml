@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["resources/900px-National_Emblem_of_the_Republic_of_China.png"]
+  #images: [""]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -33,7 +33,7 @@ params:
   ShowCodeCopyButtons: false
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -50,8 +50,8 @@ params:
 
   label:
     text: "Home"
-    #icon: ""
-    #iconHeight: 35
+    icon: "/favicon-16x16.png"
+    iconHeight: 35
 
   # profile-mode
   profileMode:
