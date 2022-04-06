@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["resources/National_Emblem_of_the_Republic_of_China.svg"]
+  images: ["resources/900px-National_Emblem_of_the_Republic_of_China.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -42,11 +42,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/resources/National_Emblem_of_the_Republic_of_China.svg"
-    favicon16x16: "/resources/National_Emblem_of_the_Republic_of_China.svg"
-    favicon32x32: "/resources/National_Emblem_of_the_Republic_of_China.svg"
-    apple_touch_icon: "/resources/National_Emblem_of_the_Republic_of_China.svg"
-    safari_pinned_tab: "/resources/National_Emblem_of_the_Republic_of_China.svg"
+    favicon: "/resources/900px-National_Emblem_of_the_Republic_of_China.png"
+    favicon16x16: "/resources/900px-National_Emblem_of_the_Republic_of_China.png"
+    favicon32x32: "/resources/900px-National_Emblem_of_the_Republic_of_China.png"
+    apple_touch_icon: "/resources/900px-National_Emblem_of_the_Republic_of_China.png"
+    safari_pinned_tab: "/resources/900px-National_Emblem_of_the_Republic_of_China.png"
 
   label:
     text: "Home"
