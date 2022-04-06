@@ -50,7 +50,7 @@ params:
 
   label:
     text: "Home"
-    icon: "/900px-National_Emblem_of_the_Republic_of_China.png"
+    icon: "/resources/900px-National_Emblem_of_the_Republic_of_China.png"
     iconHeight: 35
 
   # profile-mode
