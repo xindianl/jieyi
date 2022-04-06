@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jan 2022 14:38:16 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 22:06:59 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disclaimer</title>
+      <link>/posts/disclaimer/</link>
+      <pubDate>Wed, 06 Apr 2022 22:06:59 +0800</pubDate>
+      
+      <guid>/posts/disclaimer/</guid>
+      <description>本网站不属于中国大陆范围，宗旨为在尊重他人自由、不侵犯其他人自由的前提下，不受任何言论审查，自由地发表意见。
+在政治认同上，本站创始人认同孙中山先生的三民主义思想，并采用青天白日满地红旗作为网站的图标。
+人们应该有选择的自由，且必须尊重其他人的自由，他们有权做出与你不同的决定。</description>
+    </item>
+    
     <item>
       <title>Live Not by Lies</title>
       <link>/posts/live-not-by-lies/</link>
