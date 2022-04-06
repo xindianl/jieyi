@@ -42,16 +42,16 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "github.com/xindianl/jieyi/900px-National_Emblem_of_the_Republic_of_China.png"
-    favicon16x16: "github.com/xindianl/jieyi/900px-National_Emblem_of_the_Republic_of_China.png"
-    favicon32x32: "github.com/xindianl/jieyi/900px-National_Emblem_of_the_Republic_of_China.png"
-    apple_touch_icon: "github.com/xindianl/jieyi/900px-National_Emblem_of_the_Republic_of_China.png"
-    safari_pinned_tab: "github.com/xindianl/jieyi/900px-National_Emblem_of_the_Republic_of_China.png"
+    #favicon: "github.com/xindianl/jieyi/900px-National_Emblem_of_the_Republic_of_China.png"
+    #favicon16x16: "github.com/xindianl/jieyi/900px-National_Emblem_of_the_Republic_of_China.png"
+    #favicon32x32: "github.com/xindianl/jieyi/900px-National_Emblem_of_the_Republic_of_China.png"
+    #apple_touch_icon: "github.com/xindianl/jieyi/900px-National_Emblem_of_the_Republic_of_China.png"
+    #safari_pinned_tab: "github.com/xindianl/jieyi/900px-National_Emblem_of_the_Republic_of_China.png"
 
   label:
     text: "Home"
-    icon: "github.com/xindianl/jieyi/resources/900px-National_Emblem_of_the_Republic_of_China.png"
-    iconHeight: 35
+    #icon: ""
+    #iconHeight: 35
 
   # profile-mode
   profileMode:
