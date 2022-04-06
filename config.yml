@@ -50,7 +50,7 @@ params:
 
   label:
     text: "Home"
-    icon: "/favicon-16x16.png"
+    icon: "/favicon.ico"
     iconHeight: 35
 
   # profile-mode
