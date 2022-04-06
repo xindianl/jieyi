@@ -42,11 +42,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
- favicon: "/resources/National_Emblem_of_the_Republic_of_China.svg"
-  #  favicon16x16: "<link / abs url>"
-  #  favicon32x32: "<link / abs url>"
-  #  apple_touch_icon: "<link / abs url>"
-    #safari_pinned_tab: "<link / abs url>"
+    favicon: "/resources/National_Emblem_of_the_Republic_of_China.svg"
+    favicon16x16: "</resources/National_Emblem_of_the_Republic_of_China.svg>"
+    favicon32x32: "/resources/National_Emblem_of_the_Republic_of_China.svg"
+    apple_touch_icon: "/resources/National_Emblem_of_the_Republic_of_China.svg"
+    safari_pinned_tab: "/resources/National_Emblem_of_the_Republic_of_China.svg"
 
   label:
     text: "Home"
