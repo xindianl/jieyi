@@ -71,7 +71,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: 同心同德 贯彻始终
 
   socialIcons:
     - name: twitter
