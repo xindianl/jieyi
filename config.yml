@@ -70,7 +70,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "U+1F9F6"
+    Title: "🧶"
     Content:
 
   socialIcons:
