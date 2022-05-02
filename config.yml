@@ -70,8 +70,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: " 🇹🇼"
-    Content: 同心同德 贯彻始终
+    Title: "🇹🇼"
+    Content:
 
   socialIcons:
     - name: twitter
