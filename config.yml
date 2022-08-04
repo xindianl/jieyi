@@ -71,7 +71,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "🧶"
-    Content: 生活的乱麻苍白平淡，凶案却像一缕贯串其中的暗红丝线
+    Content: Tempora mutantur, nos et mutamur in illis
 
   socialIcons:
     - name: twitter
